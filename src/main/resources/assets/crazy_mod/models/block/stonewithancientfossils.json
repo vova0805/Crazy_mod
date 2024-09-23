@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crazy_mod:blocks/stonewithancientfossils",
+    "up": "crazy_mod:blocks/stonewithancientfossils",
+    "north": "crazy_mod:blocks/stonewithancientfossils",
+    "east": "crazy_mod:blocks/stonewithancientfossils",
+    "south": "crazy_mod:blocks/stonewithancientfossils",
+    "west": "crazy_mod:blocks/stonewithancientfossils",
+    "particle": "crazy_mod:blocks/stonewithancientfossils"
+  }
+}

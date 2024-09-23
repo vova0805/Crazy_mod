@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "crazy_mod:block/fossilsblock",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "crazy_mod:block/fossilsblock"
+    },
+    "axis=z": {
+      "model": "crazy_mod:block/fossilsblock",
+      "x": 90
+    }
+  }
+}

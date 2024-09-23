@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "1": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "2": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "3": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "4": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "5": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "6": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "7": {
+      "item": "crazy_mod:ancientfossils"
+    },
+    "8": {
+      "item": "crazy_mod:ancientfossils"
+    }
+  },
+  "result": {
+    "item": "crazy_mod:fossilsblock",
+    "count": 1
+  }
+}

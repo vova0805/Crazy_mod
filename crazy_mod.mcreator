@@ -1,0 +1,67 @@
+{
+  "mod_elements": [
+    {
+      "name": "Ancientfossils",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancientfossils"
+    },
+    {
+      "name": "Stonewithancientfossils",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonewithancientfossils"
+    },
+    {
+      "name": "Fossilsblock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fossilsblock"
+    },
+    {
+      "name": "FBcraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_bcraft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.crazy_mod.ancientfossils": "Ancient fossils",
+      "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
+      "block.crazy_mod.fossilsblock": "Fossils block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "crazy_mod",
+    "modName": "Crazy_mod",
+    "version": "1.0.0",
+    "author": "Клыков Владимир, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.crazymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
