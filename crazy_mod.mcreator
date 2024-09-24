@@ -82,6 +82,14 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "Grassdino3",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grassdino_3"
     }
   ],
   "variable_elements": [],
