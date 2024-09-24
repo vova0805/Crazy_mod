@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "crazy_mod:block/dinoworld_portal_ew"
+    },
+    "axis=x": {
+      "model": "crazy_mod:block/dinoworld_portal_ns"
+    }
+  }
+}
