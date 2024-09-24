@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crazy_mod:blocks/f",
+    "up": "crazy_mod:blocks/dde",
+    "north": "crazy_mod:blocks/tytt",
+    "east": "crazy_mod:blocks/tytt",
+    "south": "crazy_mod:blocks/tytt",
+    "west": "crazy_mod:blocks/tytt",
+    "particle": "crazy_mod:blocks/f"
+  }
+}
