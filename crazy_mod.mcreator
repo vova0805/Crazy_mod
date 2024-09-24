@@ -33,12 +33,12 @@
       "registry_name": "f_bcraft"
     },
     {
-      "name": "Ffgr",
+      "name": "Grassdino2",
       "type": "block",
-      "sortid": 5,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "ffgr"
+      "registry_name": "grassdino_2"
     },
     {
       "name": "Grassdino",
@@ -49,20 +49,28 @@
       "registry_name": "grassdino"
     },
     {
-      "name": "Grassdino2",
-      "type": "block",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "grassdino_2"
-    },
-    {
       "name": "Dino1",
       "type": "biome",
       "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dino_1"
+    },
+    {
+      "name": "Blockofdecoratedfossils",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockofdecoratedfossils"
+    },
+    {
+      "name": "BoDFcraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bo_d_fcraft"
     }
   ],
   "variable_elements": [],
@@ -72,10 +80,7 @@
       "item.crazy_mod.ancientfossils": "Ancient fossils",
       "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
       "block.crazy_mod.fossilsblock": "Fossils block",
-      "block.crazy_mod.ffgr": "Ffgr",
-      "block.crazy_mod.grassdino": "Grassdino",
-      "block.crazy_mod.grassdino_2": "Grassdino 2",
-      "biome.crazy_mod.dino_1": "Dino 1"
+      "block.crazy_mod.ffgr": "Ffgr"
     }
   },
   "foldersRoot": {
