@@ -119,8 +119,8 @@ public class StonewithancientfossilsBlock extends CrazyModModElements.ModElement
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 4)).range(30)
-					.square().func_242731_b(1);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 5)).range(30)
+					.square().func_242731_b(2);
 			event.getRegistry().register(feature.setRegistryName("stonewithancientfossils"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("crazy_mod:stonewithancientfossils"), configuredFeature);
 		}
