@@ -31,6 +31,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "f_bcraft"
+    },
+    {
+      "name": "Blockofdecoratedfossils",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blockofdecoratedfossils"
+    },
+    {
+      "name": "BoDFcraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bo_d_fcraft"
     }
   ],
   "variable_elements": [],
@@ -39,7 +55,8 @@
     "en_us": {
       "item.crazy_mod.ancientfossils": "Ancient fossils",
       "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
-      "block.crazy_mod.fossilsblock": "Fossils block"
+      "block.crazy_mod.fossilsblock": "Fossils block",
+      "block.crazy_mod.blockofdecoratedfossils": "Block of decorated fossils"
     }
   },
   "foldersRoot": {
