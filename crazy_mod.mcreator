@@ -71,6 +71,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "bo_d_fcraft"
+    },
+    {
+      "name": "Grassdino3",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grassdino_3"
     }
   ],
   "variable_elements": [],
@@ -80,7 +88,12 @@
       "item.crazy_mod.ancientfossils": "Ancient fossils",
       "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
       "block.crazy_mod.fossilsblock": "Fossils block",
-      "block.crazy_mod.ffgr": "Ffgr"
+      "block.crazy_mod.ffgr": "Ffgr",
+      "block.crazy_mod.grassdino": "Grassdino",
+      "block.crazy_mod.blockofdecoratedfossils": "Block of decorated fossils",
+      "block.crazy_mod.grassdino_3": "Grassdino 3",
+      "block.crazy_mod.grassdino_2": "Grassdino 2",
+      "biome.crazy_mod.dino_1": "Dino 1"
     }
   },
   "foldersRoot": {

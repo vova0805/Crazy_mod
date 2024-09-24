@@ -22,12 +22,12 @@ import java.util.List;
 import java.util.Collections;
 
 @CrazyModModElements.ModElement.Tag
-public class GrassdinoBlock extends CrazyModModElements.ModElement {
-	@ObjectHolder("crazy_mod:grassdino")
+public class Grassdino3Block extends CrazyModModElements.ModElement {
+	@ObjectHolder("crazy_mod:grassdino_3")
 	public static final Block block = null;
 
-	public GrassdinoBlock(CrazyModModElements instance) {
-		super(instance, 6);
+	public Grassdino3Block(CrazyModModElements instance) {
+		super(instance, 9);
 	}
 
 	@Override
@@ -39,9 +39,9 @@ public class GrassdinoBlock extends CrazyModModElements.ModElement {
 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ORGANIC).sound(SoundType.WET_GRASS).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
+			super(Block.Properties.create(Material.ORGANIC).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
 					.harvestLevel(1).harvestTool(ToolType.SHOVEL));
-			setRegistryName("grassdino");
+			setRegistryName("grassdino_3");
 		}
 
 		@Override
