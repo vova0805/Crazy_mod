@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "crazy_mod:blocks/ancientplanks2",
+    "particle": "crazy_mod:blocks/ancientplanks2"
+  }
+}

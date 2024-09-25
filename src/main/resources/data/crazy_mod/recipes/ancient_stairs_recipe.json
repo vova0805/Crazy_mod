@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crazy_mod:ancient_planks"
+    },
+    "3": {
+      "item": "crazy_mod:ancient_planks"
+    },
+    "4": {
+      "item": "crazy_mod:ancient_planks"
+    },
+    "6": {
+      "item": "crazy_mod:ancient_planks"
+    },
+    "7": {
+      "item": "crazy_mod:ancient_planks"
+    },
+    "8": {
+      "item": "crazy_mod:ancient_planks"
+    }
+  },
+  "result": {
+    "item": "crazy_mod:ancient_stairs",
+    "count": 4
+  }
+}

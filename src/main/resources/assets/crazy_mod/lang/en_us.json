@@ -1,11 +1,24 @@
 {
   "item.crazy_mod.ancientfossils": "Ancient fossils",
   "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
-  "block.crazy_mod.fossilsblock": "Fossils block",
   "block.crazy_mod.ffgr": "Ffgr",
   "block.crazy_mod.grassdino": "Grassdino",
+  "block.crazy_mod.ancient_wood": "Ancient Wood",
+  "entity.crazy_mod.tiger_zub": "Tiger Zub",
+  "biome.crazy_mod.dino_1": "Dino 1",
+  "item.crazy_mod.dinoworld": "Ancient clocks",
+  "block.crazy_mod.ancient_fence_gate": "Ancient Fence Gate",
+  "item.crazy_mod.tiger_zub_spawn_egg": "Tiger Zub Spawn Egg",
+  "block.crazy_mod.ancient_planks": "Ancient Planks",
+  "block.crazy_mod.ancient_button": "Ancient Button",
+  "block.crazy_mod.ancient_leaves": "Ancient Leaves",
+  "block.crazy_mod.fossilsblock": "Fossils block",
+  "block.crazy_mod.ancient_log": "Ancient Log",
+  "block.crazy_mod.ancient_slab": "Ancient Slab",
+  "block.crazy_mod.ancient_fence": "Ancient Fence",
   "block.crazy_mod.blockofdecoratedfossils": "Block of decorated fossils",
   "block.crazy_mod.grassdino_3": "Grassdino 3",
-  "biome.crazy_mod.dino_1": "Dino 1",
-  "block.crazy_mod.grassdino_2": "Grassdino 2"
+  "block.crazy_mod.grassdino_2": "Grassdino 2",
+  "block.crazy_mod.ancient_stairs": "Ancient Stairs",
+  "block.crazy_mod.ancient_pressure_plate": "Ancient Pressure Plate"
 }

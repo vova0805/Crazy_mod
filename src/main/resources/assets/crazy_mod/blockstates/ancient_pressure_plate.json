@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "crazy_mod:block/ancient_pressure_plate"
+    },
+    "powered=true": {
+      "model": "crazy_mod:block/ancient_pressure_plate_down"
+    }
+  }
+}

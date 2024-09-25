@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crazy_mod:ancient_planks"
+    }
+  ],
+  "result": {
+    "item": "crazy_mod:ancient_button",
+    "count": 1
+  }
+}

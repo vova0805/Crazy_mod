@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "crazy_mod:blocks/ancientplanks2"
+  }
+}

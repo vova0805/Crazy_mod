@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "crazy_mod:blocks/ancientplanks2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "crazy_mod:block/ancient_slab"
+    },
+    "type=top": {
+      "model": "crazy_mod:block/ancient_slab_top"
+    },
+    "type=double": {
+      "model": "crazy_mod:block/ancient_slab_full"
+    }
+  }
+}

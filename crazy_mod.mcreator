@@ -98,6 +98,166 @@
       "metadata": {
         "ep": true
       }
+    },
+    {
+      "name": "AncientWood",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_wood"
+    },
+    {
+      "name": "AncientLog",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_log"
+    },
+    {
+      "name": "AncientPlanks",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_planks"
+    },
+    {
+      "name": "AncientLeaves",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_leaves"
+    },
+    {
+      "name": "AncientStairs",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_stairs"
+    },
+    {
+      "name": "AncientSlab",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_slab"
+    },
+    {
+      "name": "AncientFence",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_fence"
+    },
+    {
+      "name": "AncientFenceGate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_fence_gate"
+    },
+    {
+      "name": "AncientPressurePlate",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_pressure_plate"
+    },
+    {
+      "name": "AncientButton",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_button"
+    },
+    {
+      "name": "AncientItemsTag",
+      "type": "tag",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_items_tag"
+    },
+    {
+      "name": "AncientWoodRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_wood_recipe"
+    },
+    {
+      "name": "AncientPlanksRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_planks_recipe"
+    },
+    {
+      "name": "AncientStairsRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_stairs_recipe"
+    },
+    {
+      "name": "AncientSlabRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_slab_recipe"
+    },
+    {
+      "name": "AncientFenceRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_fence_recipe"
+    },
+    {
+      "name": "AncientFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_fence_gate_recipe"
+    },
+    {
+      "name": "AncientPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_pressure_plate_recipe"
+    },
+    {
+      "name": "AncientButtonRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_button_recipe"
+    },
+    {
+      "name": "AncientStickRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ancient_stick_recipe"
     }
   ],
   "variable_elements": [],
@@ -108,11 +268,24 @@
       "block.crazy_mod.stonewithancientfossils": "Stone with ancient fossils",
       "block.crazy_mod.ffgr": "Ffgr",
       "block.crazy_mod.grassdino": "Grassdino",
+      "block.crazy_mod.ancient_wood": "Ancient Wood",
+      "entity.crazy_mod.tiger_zub": "Tiger Zub",
       "biome.crazy_mod.dino_1": "Dino 1",
+      "item.crazy_mod.dinoworld": "Ancient clocks",
+      "block.crazy_mod.ancient_fence_gate": "Ancient Fence Gate",
+      "item.crazy_mod.tiger_zub_spawn_egg": "Tiger Zub Spawn Egg",
+      "block.crazy_mod.ancient_planks": "Ancient Planks",
+      "block.crazy_mod.ancient_button": "Ancient Button",
+      "block.crazy_mod.ancient_leaves": "Ancient Leaves",
       "block.crazy_mod.fossilsblock": "Fossils block",
+      "block.crazy_mod.ancient_log": "Ancient Log",
+      "block.crazy_mod.ancient_slab": "Ancient Slab",
+      "block.crazy_mod.ancient_fence": "Ancient Fence",
       "block.crazy_mod.blockofdecoratedfossils": "Block of decorated fossils",
       "block.crazy_mod.grassdino_3": "Grassdino 3",
-      "block.crazy_mod.grassdino_2": "Grassdino 2"
+      "block.crazy_mod.grassdino_2": "Grassdino 2",
+      "block.crazy_mod.ancient_stairs": "Ancient Stairs",
+      "block.crazy_mod.ancient_pressure_plate": "Ancient Pressure Plate"
     }
   },
   "foldersRoot": {
