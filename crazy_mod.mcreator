@@ -79,6 +79,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "grassdino_3"
+    },
+    {
+      "name": "TigerZub",
+      "type": "livingentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiger_zub"
     }
   ],
   "variable_elements": [],
@@ -90,10 +98,12 @@
       "block.crazy_mod.fossilsblock": "Fossils block",
       "block.crazy_mod.ffgr": "Ffgr",
       "block.crazy_mod.grassdino": "Grassdino",
+      "entity.crazy_mod.tiger_zub": "Tiger Zub",
       "block.crazy_mod.blockofdecoratedfossils": "Block of decorated fossils",
       "block.crazy_mod.grassdino_3": "Grassdino 3",
       "block.crazy_mod.grassdino_2": "Grassdino 2",
-      "biome.crazy_mod.dino_1": "Dino 1"
+      "biome.crazy_mod.dino_1": "Dino 1",
+      "item.crazy_mod.tiger_zub_spawn_egg": "Tiger Zub Spawn Egg"
     }
   },
   "foldersRoot": {
