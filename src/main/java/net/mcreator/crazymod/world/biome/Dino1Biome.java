@@ -50,7 +50,7 @@ public class Dino1Biome extends CrazyModModElements.ModElement {
 						.withSkyColor(7972607).withFoliageColor(10387789).withGrassColor(-16724941).build();
 				BiomeGenerationSettings.Builder biomeGenerationSettings = new BiomeGenerationSettings.Builder()
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(GrassdinoBlock.block.getDefaultState(),
-								Blocks.STONE.getDefaultState(), Blocks.SAND.getDefaultState())));
+								Blocks.COARSE_DIRT.getDefaultState(), Blocks.SAND.getDefaultState())));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
 						Feature.TREE
 								.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(Blocks.OAK_LOG.getDefaultState()),
@@ -69,12 +69,12 @@ public class Dino1Biome extends CrazyModModElements.ModElement {
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
 						Feature.DISK
 								.withConfiguration(new SphereReplaceConfig(Blocks.SAND.getDefaultState(), FeatureSpread.func_242253_a(2, 4), 2,
-										ImmutableList.of(GrassdinoBlock.block.getDefaultState(), Blocks.STONE.getDefaultState())))
+										ImmutableList.of(GrassdinoBlock.block.getDefaultState(), Blocks.COARSE_DIRT.getDefaultState())))
 								.withPlacement(Features.Placements.SEAGRASS_DISK_PLACEMENT).func_242731_b(2));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
 						Feature.DISK
 								.withConfiguration(new SphereReplaceConfig(Blocks.GRAVEL.getDefaultState(), FeatureSpread.func_242253_a(2, 3), 2,
-										ImmutableList.of(GrassdinoBlock.block.getDefaultState(), Blocks.STONE.getDefaultState())))
+										ImmutableList.of(GrassdinoBlock.block.getDefaultState(), Blocks.COARSE_DIRT.getDefaultState())))
 								.withPlacement(Features.Placements.SEAGRASS_DISK_PLACEMENT).func_242731_b(1));
 				DefaultBiomeFeatures.withCavesAndCanyons(biomeGenerationSettings);
 				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
